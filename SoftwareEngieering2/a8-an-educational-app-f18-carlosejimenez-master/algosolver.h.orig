@@ -1,0 +1,25 @@
+#ifndef ALGOSOLVER_H
+#define ALGOSOLVER_H
+
+#include <deque>
+#include <vector>
+
+
+class AlgoSolver
+{
+public:
+    AlgoSolver();
+
+    static std::deque<std::vector<int>> getSelectionSortSequence(int inputArray[], int arraySize);
+    static std::deque<std::vector<int>> getInsertionSortSequence(int inputArray[], int arraySize);
+    static std::deque<std::vector<int>> getMergeSortSequence(int inputArray[], int arraySize);
+    static void printSequence(std::deque<std::vector<int>> sequence);
+    static std::vector<int> arrayToVector(int array[], int arraySize);
+    static int* vectorToArray(std::vector<int> vec);
+
+private:
+    static int min(int x, int y);
+    static std::vector<int> merge(std::vector<int> vec1, std::vector<int> vec2);
+};
+
+#endif // ALGOSOLVER_H

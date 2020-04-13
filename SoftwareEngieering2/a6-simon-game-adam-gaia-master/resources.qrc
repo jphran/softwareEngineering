@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/new/image">
+        <file>popupImage.jpeg</file>
+    </qresource>
+</RCC>

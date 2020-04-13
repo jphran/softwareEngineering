@@ -1,0 +1,45 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>Images/Background Default.png</file>
+        <file>Images/Background Overcast.png</file>
+        <file>Images/Background Rain.png</file>
+        <file>Images/Background Tornado.png</file>
+        <file>Images/ClipArtPitcher.png</file>
+        <file>Images/logo.png</file>
+        <file>Images/Whale.png</file>
+        <file>Images/Crowd_Levels/Crowd Medium.png</file>
+        <file>Images/Weather_Images/Cloudy.png</file>
+        <file>Images/Weather_Images/Rainy.png</file>
+        <file>Images/Weather_Images/Sunny.png</file>
+        <file>Images/Weather_Images/Tornado.png</file>
+        <file>Images/Crowd_Levels/Crowd Heavy.png</file>
+        <file>Images/Crowd_Levels/Crowd Light.png</file>
+        <file>Images/lemon.png</file>
+        <file>Images/iceCube.png</file>
+        <file>Images/sugarCube.png</file>
+        <file>Images/Background Snow.png</file>
+        <file>Images/Calendars/lemonomicsCalendarWeek1Short.png</file>
+        <file>Images/Calendars/lemonomicsCalendarWeek1Tall.png</file>
+        <file>Images/Calendars/lemonomicsCalendarWeek2Short.png</file>
+        <file>Images/Calendars/lemonomicsCalendarWeek2Tall.png</file>
+        <file>Images/Calendars/lemonomicsCalendarWeek3Short.png</file>
+        <file>Images/Calendars/lemonomicsCalendarWeek3Tall.png</file>
+        <file>Images/Weather_Images/Snowy.png</file>
+        <file>Images/Upgrades/Boom Box.png</file>
+        <file>Images/Upgrades/grape.png</file>
+        <file>Images/Upgrades/Insurance Sign.png</file>
+        <file>Images/Upgrades/organic lemons.png</file>
+        <file>Images/Upgrades/Sugar Dealer.png</file>
+        <file>Images/Upgrades/Umbrella.png</file>
+        <file>Images/Upgrades/Neon Sign.png</file>
+        <file>Images/Upgrades/Purchased.png</file>
+    </qresource>
+    <qresource prefix="/txt">
+        <file>textResources/newsStories.txt</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>Images/Weather_Images/Snowy.png</file>
+        <file>music/ducksong.mp3</file>
+        <file>music/rickroll.mp3</file>
+    </qresource>
+</RCC>

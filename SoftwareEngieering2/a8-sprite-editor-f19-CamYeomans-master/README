@@ -1,0 +1,17 @@
+# Install instructions
+
+Clone the repo:
+    git clone https://github.com/University-of-Utah-CS3505/a8-sprite-editor-f19-CamYeomans.git
+
+Depending on your operating system, cd to the appropriate build folder:
+    cd a8-sprite-editor-f19-CamYeomans/<linux_build|mac_build|windows_build>
+
+Build the project
+    make
+
+Run the application on linux:
+    ./SpriteEditor
+or for mac:
+    open ./SpriteEditor.app
+or for windows;
+    ./SpriteEditor.exe

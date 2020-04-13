@@ -1,0 +1,19 @@
+install: true
+dist: bionic
+language: cpp
+compiler: g++
+branches:
+  only:
+  - master
+script:
+  #get gtests
+  - git clone https://github.com/google/googletest.git
+  - cd googletest/googletest
+  - cmake .
+  - make clean
+  - make all
+  - cd ../.. #return to top trie code dir
+
+  #make and test Trie code
+  - make GOOGLETEST=./googletest/googletest
+  - make test

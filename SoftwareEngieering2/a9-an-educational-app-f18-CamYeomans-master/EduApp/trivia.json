@@ -1,0 +1,237 @@
+{
+    "TRIVIAQUESTION": {
+        "LOCATION": "England",
+        "QUESTION": "Where were the first trebuchets invented?",
+        "CORRECTANSWER": "D",
+        "ANSWER1": "England",
+        "ANSWER2": "France",
+        "ANSWER3": "Egypt",
+        "ANSWER4": "China"
+     },
+     "TRIVIAQUESTION2": {
+        "LOCATION": "England",
+        "QUESTION": "What was the name of the trebuchet built by the medieval engineer James of St George?",
+        "CORRECTANSWER": "C",
+        "ANSWER1": "Hurthound",
+        "ANSWER2": "Warpig",
+        "ANSWER3": "Warwolf",
+        "ANSWER4": "Doomdog"
+      },
+      "TRIVIAQUESTION3": {
+        "LOCATION": "England",
+        "QUESTION": "When did the siege of Kenilworth Castle begin?",
+        "CORRECTANSWER": "A",
+        "ANSWER1": "June 1266",
+        "ANSWER2": "March 1216",
+        "ANSWER3": "December 1256",
+        "ANSWER4": "January 1216"
+      },
+      "TRIVIAQUESTION4": {
+        "LOCATION": "England",
+        "QUESTION": "Who fought against Henry III during the siege of Kenilworth Castle",
+        "CORRECTANSWER": "B",
+        "ANSWER1": "King Edward",
+        "ANSWER2": "Simon de Montfort",
+        "ANSWER3": "Richard III",
+        "ANSWER4": "Simon Bolivar"
+      },
+      "TRIVIAQUESTION5": {
+        "LOCATION": "Greece",
+        "QUESTION": "What inventions Archimedes use to defend against the Romans?",
+        "CORRECTANSWER": "D",
+        "ANSWER1": "Archimedes’ Scorpion and Onagers",
+        "ANSWER2": "Onagers and Sambuca",
+        "ANSWER3": "Claw of Archimedes and Sambuca",
+        "ANSWER4": "Claw of Archimedes and Heat Ray"
+      },
+      "TRIVIAQUESTION6": {
+        "LOCATION": "Greece",
+        "QUESTION": "What siege invention led to the Romans finally gaining entrance into Syracuse?",
+        "CORRECTANSWER": "C",
+        "ANSWER1": "Floating Siege Towers",
+        "ANSWER2": "Sambuca",
+        "ANSWER3": "Grappling Hooks",
+        "ANSWER4": "Onagers"
+      },
+      "TRIVIAQUESTION7": {
+        "LOCATION": "Greece",
+        "QUESTION": "When did the siege of Syracuse begin?",
+        "CORRECTANSWER": "A",
+        "ANSWER1": "213 BC",
+        "ANSWER2": "872 BC",
+        "ANSWER3": "214 AD",
+        "ANSWER4": "213 AD"
+      },
+      "TRIVIAQUESTION8": {
+        "LOCATION": "Greece",
+        "QUESTION": "Which Roman military leader led the Siege of Syracuse?",
+        "CORRECTANSWER": "A",
+        "ANSWER1": "Marcus Claudius Marcellus",
+        "ANSWER2": "Caesar Augustus",
+        "ANSWER3": "Marcus Aurelius",
+        "ANSWER4": "Antonius Pius"
+      },
+    "TRIVIAQUESTION9": {
+      "LOCATION": "France",
+      "QUESTION": "When did France have most of its sieges?",
+      "CORRECTANSWER": "B",
+      "ANSWER1": "The French/Indian War",
+      "ANSWER2": "The Hundred Year’s War",
+      "ANSWER3": "The French Revolution",
+      "ANSWER4": "A hundred years ago"
+    },
+    "TRIVIAQUESTION10": {
+      "LOCATION": "France",
+      "QUESTION": "What kind of building technique did early French castles use to defend against sieges?",
+      "CORRECTANSWER": "C",
+      "ANSWER1": "Victorian technique",
+      "ANSWER2": "Moat and Bridge technique",
+      "ANSWER3": "Motte and Bailey technique",
+      "ANSWER4": "Maurice technique"
+    },
+    "TRIVIAQUESTION11": {
+      "LOCATION": "France",
+      "QUESTION": "What was the French’s primary siege weapon?",
+      "CORRECTANSWER": "A",
+      "ANSWER1": "The pot-de-fer",
+      "ANSWER2": "Trebuchet",
+      "ANSWER3": "Catapult",
+      "ANSWER4": "Gunpowder"
+    },
+    "TRIVIAQUESTION12": {
+      "LOCATION": "France",
+      "QUESTION": "What was their favored close ranged attack weapon called?",
+      "CORRECTANSWER": "D",
+      "ANSWER1": "Bow and Arrow",
+      "ANSWER2": "Ballista",
+      "ANSWER3": "Grond",
+      "ANSWER4": "The battering ram"
+    },
+    "TRIVIAQUESTION13": {
+      "LOCATION": "Rome",
+      "QUESTION": "Where did the Romans get the inspiration for most of its siege engines?",
+      "CORRECTANSWER": "C",
+      "ANSWER1": "The English",
+      "ANSWER2": "The Chinese",
+      "ANSWER3": "The Hellenistic Kingdoms",
+      "ANSWER4": "The Assyrians"
+    },
+    "TRIVIAQUESTION14": {
+      "LOCATION": "Rome",
+      "QUESTION": "What did the Romans use before using siege warfare?",
+      "CORRECTANSWER": "A",
+      "ANSWER1": "Ladders",
+      "ANSWER2": "Guns",
+      "ANSWER3": "Boats",
+      "ANSWER4": "Knocking on the door"
+    },
+    "TRIVIAQUESTION15": {
+      "LOCATION": "Rome",
+      "QUESTION": "When did the Romans first start using the siege towers?",
+      "CORRECTANSWER": "B",
+      "ANSWER1": "202 BCE",
+      "ANSWER2": "204 BCE",
+      "ANSWER3": "212 BCE",
+      "ANSWER4": "204 AD"
+    },
+    "TRIVIAQUESTION16": {
+      "LOCATION": "Rome",
+      "QUESTION": "Who led the first siege where the Romans started using more advanced siege weapons?",
+      "CORRECTANSWER": "D",
+      "ANSWER1": "Scorpion Africa",
+      "ANSWER2": "Didius Julianus",
+      "ANSWER3": "Severus Alexander",
+      "ANSWER4": "Scipio Africanus"
+    },
+    "TRIVIAQUESTION17": {
+      "LOCATION": "All",
+      "QUESTION": "How did civilizations go about acquiring new siege weapons?",
+      "CORRECTANSWER": "C",
+      "ANSWER1": "They shipped them from China",
+      "ANSWER2": "Buy them from the siege market",
+      "ANSWER3": "Custom order them to be built in place",
+      "ANSWER4": "Amazon prime 2-day shipping"
+    },
+    "TRIVIAQUESTION18": {
+      "LOCATION": "All",
+      "QUESTION": "What were 2 other siege weapons that were used during siege heavy eras?",
+      "CORRECTANSWER": "B",
+      "ANSWER1": "Mongrel and Bailey",
+      "ANSWER2": "Mangonel and Ballista",
+      "ANSWER3": "Mongoose and Ballista",
+      "ANSWER4": "Mangonel and Blueberry"
+    },
+    "TRIVIAQUESTION19": {
+      "LOCATION": "All",
+      "QUESTION": "What language is Mangonel derived from?",
+      "CORRECTANSWER": "D",
+      "ANSWER1": "Japanese",
+      "ANSWER2": "Greek",
+      "ANSWER3": "Anglo Saxon",
+      "ANSWER4": "Latin"
+    },
+    "TRIVIAQUESTION20": {
+      "LOCATION": "All",
+      "QUESTION": "What language is Ballista derived from?",
+      "CORRECTANSWER": "A",
+      "ANSWER1": "Greek",
+      "ANSWER2": "Finnish",
+      "ANSWER3": "Spanish",
+      "ANSWER4": "Italian"
+    },
+    "TRIVIAQUESTION21": {
+      "LOCATION": "All",
+      "QUESTION": "When was the balista first used by the French?",
+      "CORRECTANSWER": "A",
+      "ANSWER1": "1216",
+      "ANSWER2": "1412",
+      "ANSWER3": "1776",
+      "ANSWER4": "1226"
+    },
+    "TRIVIAQUESTION22": {
+      "LOCATION": "All",
+      "QUESTION": "What siege did the French first use the Ballista?",
+      "CORRECTANSWER": "B",
+      "ANSWER1": "Siege of Orleans",
+      "ANSWER2": "Siege of Dover",
+      "ANSWER3": "Siege of Syracuse",
+      "ANSWER4": "Siege of York"
+    },
+    "TRIVIAQUESTION23": {
+      "LOCATION": "All",
+      "QUESTION": "What does the word Mangonel mean?",
+      "CORRECTANSWER": "C",
+      "ANSWER1": "Engine of Man",
+      "ANSWER2": "Man Engine",
+      "ANSWER3": "Engine of War",
+      "ANSWER4": "Mongoose War"
+    },
+    "TRIVIAQUESTION24": {
+      "LOCATION": "All",
+      "QUESTION": "What items could you use in the Mangonel?",
+      "CORRECTANSWER": "D",
+      "ANSWER1": "Rocks",
+      "ANSWER2": "Rotting body parts",
+      "ANSWER3": "Diseased animals",
+      "ANSWER4": "All of the above"
+    },
+    "TRIVIAQUESTION25": {
+      "LOCATION": "All",
+      "QUESTION": "What were the ropes used in Middle Ages made out of?",
+      "CORRECTANSWER": "C",
+      "ANSWER1": "Hair",
+      "ANSWER2": "Sinew",
+      "ANSWER3": "Sinew and hair",
+      "ANSWER4": "Twine"
+    },
+    "TRIVIAQUESTION26": {
+      "LOCATION": "All",
+      "QUESTION": "How far can you launch something with a Mangonel?",
+      "CORRECTANSWER": "A",
+      "ANSWER1": "1300 feet",
+      "ANSWER2": "1300 meters",
+      "ANSWER3": "13000 feet",
+      "ANSWER4": "13000 meters"
+    }
+
+ }
